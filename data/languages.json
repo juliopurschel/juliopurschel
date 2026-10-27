@@ -1,0 +1,11 @@
+{
+  "repository": "juliopurschel/projeto-go-task",
+  "source": "https://api.github.com/repos/juliopurschel/projeto-go-task/languages",
+  "retrievedOn": "2026-10-27",
+  "unit": "bytes",
+  "languages": {
+    "TypeScript": 21601,
+    "HTML": 10756,
+    "CSS": 300
+  }
+}
