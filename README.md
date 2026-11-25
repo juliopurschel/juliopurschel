@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Julio Pürschel — Desenvolvedor Full Stack Pleno. Mais de 5 anos com sistemas corporativos, C# e .NET. Integrações, automação e SQL Performance." />
+  <img src="./assets/header.svg" width="100%" alt="Julio Pürschel — Desenvolvedor Full Stack Pleno. Mais de 6 anos com sistemas corporativos, C# e .NET. Integrações, automação e SQL Performance." />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## Software conectado ao negócio
 
-Sou **desenvolvedor Full Stack Pleno**, com **mais de 5 anos de experiência** no desenvolvimento, manutenção e evolução de sistemas corporativos. Minha base é **C#/.NET, ASP.NET MVC, SQL Server e Dapper**, com atuação em soluções fiscais, contábeis e de gestão documental.
+Sou **desenvolvedor Full Stack Pleno**, com **mais de 6 anos de experiência** no desenvolvimento, manutenção e evolução de sistemas corporativos. Minha base é **C#/.NET, ASP.NET MVC, SQL Server e Dapper**, com atuação em soluções fiscais, contábeis e de gestão documental.
 
 No dia a dia, trabalho com integrações entre sistemas, automação de processos, processamento assíncrono e otimização de consultas e rotinas de banco de dados. Gosto de entender a regra de negócio antes de escrever o código e de evoluir aplicações com atenção à estabilidade e à manutenção.
 
